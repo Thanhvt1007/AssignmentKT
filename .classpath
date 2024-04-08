@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Testing/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/Testing"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="dist/HAZ_ShopTheThao_VersionOfficial.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.3.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-pdfa-5.4.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jasperreports-6.10.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jasperreports-fonts-6.10.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mssql-jdbc-9.2.1.jre8.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/itext-pdfa-5.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-6.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-fonts-6.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="lib/mssql-jdbc-9.2.1.jre8.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
